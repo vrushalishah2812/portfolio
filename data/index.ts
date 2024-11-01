@@ -10,7 +10,7 @@ export const gridItems = [
   {
     id: 1,
     title:
-      "I prioritize leveraging AI and machine learning to drive innovation, enabling data-driven decision-making and predictive analytics. ",
+      "I'm passionate about harnessing the power of AI and ML to revolutionize decision-making and future forecasting. ",
     description: "",
     className: "lg:col-span-3 md:col-span-6 md:row-span-4 lg:min-h-[60vh] ",
     imgClassName: "w-full h-full opacity-50",
@@ -20,7 +20,7 @@ export const gridItems = [
   },
   {
     id: 2,
-    title: "I'm very flexible with time zone communications",
+    title: "I'm available across time zones.",
     description: "",
     className: "lg:col-span-2 md:col-span-3 md:row-span-2",
     imgClassName: "",
@@ -40,7 +40,8 @@ export const gridItems = [
   },
   {
     id: 4,
-    title: "Tech enthusiast with a passion for development.",
+    title:
+      "Dedicated software engineer with a passion for creating cutting-edge applications.",
     description: "",
     className: "lg:col-span-2 md:col-span-3 md:row-span-1",
     imgClassName: "",
@@ -51,7 +52,8 @@ export const gridItems = [
 
   {
     id: 5,
-    title: "Currently building a AI-Fitness tracker using Computer Vision",
+    title:
+      "Currently working at ProCraft Cabinetry for implementing NetSuite ERP system.",
     description: "The Inside Scoop",
     className: "md:col-span-3 md:row-span-2",
     imgClassName: "absolute right-0 bottom-0 md:w-96 w-60",
@@ -111,25 +113,25 @@ export const projects = [
 export const workExperience = [
   {
     id: 1,
-    title: "Research Intern, Indian Space Research Organisation",
-    desc: "Developed a novel navigation solution using Low Earth Orbit satellites by formulating and implementing a mathematical algorithm in MATLAB, achieving an 89.9% position accuracy rate.",
+    title: "Implementation of NetSuite ERP System at ProCraft Cabinetry",
+    desc: "As an ERP Project Manager Intern at ProCraft Cabinetry, I led the NetSuite ERP system rollout, achieving a 25% boost in operational efficiency by optimizing resource use and minimizing downtime.",
     className: "md:col-span-2",
     thumbnail: "./exp1.svg",
   },
-  {
-    id: 2,
-    title: "Software Development Intern, Fortius Infotech",
-    desc: "Developed a web application using ReactJS and Node.js to serve consumers and manage digital billboards for video advertisement broadcasting.",
-    className: "md:col-span-2", // change to md:col-span-2
-    thumbnail: "./exp2.svg",
-  },
-  {
-    id: 3,
-    title: "Data Scientist, eAgent ",
-    desc: "Leveraged Numpy and Pandas to preprocess and update daily data files, used Seaborn for data visualization, and contributed to a full-stack web application using MongoDB, ReactJS, and Node.js.",
-    className: "md:col-span-4 flex justify-center", // change to md:col-span-2
-    thumbnail: "./exp3.svg",
-  },
+  // {
+  //   id: 2,
+  //   title: "Software Development Intern, Fortius Infotech",
+  //   desc: "Developed a web application using ReactJS and Node.js to serve consumers and manage digital billboards for video advertisement broadcasting.",
+  //   className: "md:col-span-2", // change to md:col-span-2
+  //   thumbnail: "./exp2.svg",
+  // },
+  // {
+  //   id: 3,
+  //   title: "Data Scientist, eAgent ",
+  //   desc: "Leveraged Numpy and Pandas to preprocess and update daily data files, used Seaborn for data visualization, and contributed to a full-stack web application using MongoDB, ReactJS, and Node.js.",
+  //   className: "md:col-span-4 flex justify-center", // change to md:col-span-2
+  //   thumbnail: "./exp3.svg",
+  // },
   // {
   //   id: 4,
   //   title: "Lead Frontend Developer",
@@ -143,12 +145,12 @@ export const socialMedia = [
   {
     id: 1,
     img: "./git.svg",
-    link: "https://github.com/shrey0801",
+    link: "https://github.com/vrushalishah2812",
   },
 
   {
     id: 3,
     img: "./link.svg",
-    link: "https://www.linkedin.com/in/vrushalishah2812/",
+    link: "https://www.linkedin.com/in/vrushalishah28/",
   },
 ];
